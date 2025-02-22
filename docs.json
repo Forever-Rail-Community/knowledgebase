@@ -3,8 +3,8 @@
   "theme": "maple",
   "name": "Forever Rail Community Documentation",
   "colors": {
-    "primary": "#fc8300",
-    "light": "#07C983",
+    "primary": "#00144f",
+    "light": "#e67f22",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
