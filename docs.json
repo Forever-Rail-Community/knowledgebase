@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Mint Starter Kit",
+  "name": "Forever Rail Community Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -57,19 +57,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Member Portal",
+          "href": "https://community.foreverrail.com/memberportal/",
+          "icon": "passport"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Server Status",
+          "href": "https://status.foreverrail.com/",
+          "icon": "satellite-dish"
         }
       ]
     }
@@ -82,13 +77,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:ops@foreverrail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Operations Dashboard",
+      "href": "https://ops.foreverrail.com/"
     }
   },
   "footer": {
